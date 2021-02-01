@@ -1,0 +1,9 @@
+﻿  main.cpp
+  server.cpp
+C:\Users\tiwar\Documents\Programming\C++\Chatroom-Ramapo\Chatroom-fallback - Copy\Server\Server\server.cpp(103,69): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tiwar\Documents\Programming\C++\Chatroom-Ramapo\Chatroom-fallback - Copy\Server\Server\server.cpp(117,25): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\tiwar\Documents\Programming\C++\Chatroom-Ramapo\Chatroom-fallback - Copy\Server\Server\server.cpp(124,62): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\tiwar\Documents\Programming\C++\Chatroom-Ramapo\Chatroom-fallback - Copy\Server\Server\server.cpp(153,51): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tiwar\Documents\Programming\C++\Chatroom-Ramapo\Chatroom-fallback - Copy\Server\Server\server.cpp(153,51): warning C4267: C:\Users\tiwar\Documents\Programming\C++\Chatroom-Ramapo\Chatroom-fallback - Copy\Server\Server\server.cpp(66) : warning C4715: 'Server::createSocket': not all control paths return a value
+  Server.vcxproj -> C:\Users\tiwar\Documents\Programming\C++\Chatroom-Ramapo\Chatroom-fallback - Copy\Server\x64\Debug\Server.exe
